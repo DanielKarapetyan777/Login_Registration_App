@@ -3,7 +3,6 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:login_register_app/data/database.dart';
 import 'package:login_register_app/data/models/user.dart';
-import 'package:meta/meta.dart';
 
 part 'register_event.dart';
 part 'register_state.dart';

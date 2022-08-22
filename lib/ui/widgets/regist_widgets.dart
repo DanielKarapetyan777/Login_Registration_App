@@ -121,3 +121,12 @@ class RegisterTextFildsValidation extends StatelessWidget {
     );
   }
 }
+
+
+// firstname: controllerFirstName.value.text,
+//                     lastname: controllerLastName.value.text,
+//                     email: controllerEmail.value.text,
+//                     password: controllerPassword.value.text,
+//                     confirmpassword: controllerConfirmPassword.value.text,
+//                     phonenumber: controllerPhonenumber.value.text,
+//                   );

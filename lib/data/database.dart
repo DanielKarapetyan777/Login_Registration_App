@@ -5,8 +5,8 @@ List<User> users = [
       firstname: 'Daniel',
       lastname: 'Karapetyan',
       email: 'dddd@dd.com',
-      password: 'eee',
-      confirmpassword: 'eee',
+      password: 'aaa',
+      confirmpassword: 'aaa',
       phonenumber: '+374 77238797'),
   User(
       firstname: 'Abel',
